@@ -4,16 +4,16 @@ C file struture for C projects
 ## USAGE
 
 ```bash
-bash c-scaffold.sh <project-name> <module-name> 
+bash ccli.sh <project-name> <module-name> 
 ```
 
 Example 
 ```bash
-bash c-scaffold.sh nyancat rainbow
+bash ccli.sh nyancat rainbow
 
 Happy Coding!
 
-/Users/matiskay/lncc/courses/data-structures/scripts/nyancat
+/<path>/nyancat
 ├── Makefile
 ├── README.mkd
 ├── main.c
