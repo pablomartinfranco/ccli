@@ -1,6 +1,3 @@
-C file struture for C projects
-
-
 ## USAGE
 
 ```bash
